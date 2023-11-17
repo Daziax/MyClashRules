@@ -10,6 +10,7 @@ HOST-SUFFIX,identrust.com
 HOST-SUFFIX,edgecompute.app
 HOST-SUFFIX,compute-pipe.com
 HOST-SUFFIX,gravatar.com
+HOST-SUFFIX,ocsp.digicert.com
 
 DOMAIN-SUFFIX,pay.openai.com
 DOMAIN-SUFFIX,chat.openai.com
