@@ -4,6 +4,7 @@ HOST-KEYWORD,openaiapi
 HOST-KEYWORD,openaipublic
 HOST-SUFFIX,intercom.io
 HOST-SUFFIX,statsigapi.net
+HOST-SUFFIX,statsig.com
 HOST-SUFFIX,featuregates.org
 HOST-SUFFIX,intercomcdn.com
 HOST-SUFFIX,identrust.com
