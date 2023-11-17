@@ -81,7 +81,6 @@ DOMAIN-SUFFIX,challenges.cloudflare.com
 
 # >> OpenAI Related
 DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,identrust.com
