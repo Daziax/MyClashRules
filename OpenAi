@@ -72,3 +72,27 @@ DOMAIN-SUFFIX,openaicomproductionae4b.blob.core.windows.net
 DOMAIN-SUFFIX,production-openaicom-storage.azureedge.net
 DOMAIN-SUFFIX,openai.nooc.ink
 DOMAIN-SUFFIX,AI.com
+
+
+# > OpenAI
+# >> OpenAI Challenge & SSO
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+
+# >> OpenAI Related
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX.com
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,identrust.com
+
+# >> OpenAI CDN
+DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+DOMAIN-SUFFIXapi-site.azureedge.net
+
+# >> OpenAI Other
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,invoice.stripe.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,poe.com
+
