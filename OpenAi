@@ -1,4 +1,15 @@
 DOMAIN-SUFFIX,openai.com
+HOST,cdn.auth0.com,OpenAi
+HOST-KEYWORD,openaiapi,OpenAi
+HOST-KEYWORD,openaipublic,OpenAi
+HOST-SUFFIX,intercom.io,OpenAi
+HOST-SUFFIX,statsigapi.net,OpenAi
+HOST-SUFFIX,featuregates.org,OpenAi
+HOST-SUFFIX,intercomcdn.com,OpenAi
+HOST-SUFFIX,identrust.com,OpenAi
+HOST-SUFFIX,edgecompute.app,OpenAi
+HOST-SUFFIX,compute-pipe.com,OpenAi
+
 DOMAIN-SUFFIX,pay.openai.com
 DOMAIN-SUFFIX,chat.openai.com
 DOMAIN-SUFFIX,challenges.cloudflare.com
