@@ -12,6 +12,8 @@ HOST-SUFFIX,edgecompute.app
 HOST-SUFFIX,compute-pipe.com
 HOST-SUFFIX,gravatar.com
 HOST-SUFFIX,ocsp.digicert.com
+HOST-SUFFIX,api.revenuecat.com
+HOST-SUFFIX,gsa.apple.com:443
 
 DOMAIN-SUFFIX,pay.openai.com
 DOMAIN-SUFFIX,chat.openai.com
