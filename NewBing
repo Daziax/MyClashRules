@@ -1,15 +1,13 @@
-# Bing
-DOMAIN-SUFFIX,msxiaobing.com
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,bing123.com
-DOMAIN-SUFFIX,bing135.com
-DOMAIN-SUFFIX,bing4.com
-DOMAIN-SUFFIX,bing.com.bo
-DOMAIN-SUFFIX,bing.com.co
-DOMAIN-SUFFIX,bing.com.cy
-DOMAIN-SUFFIX,bing.com.gt
-DOMAIN-SUFFIX,bing.jp
-DOMAIN-SUFFIX,bing.cn
-DOMAIN-SUFFIX,bing.net
-DOMAIN-SUFFIX,bingapis.com
-DOMAIN-SUFFIX,bingforbusiness.com
+payload:
+  - DOMAIN-KEYWORD,bbcfmt
+  - DOMAIN,aod-dash-uk-live.akamaized.net
+  - DOMAIN,aod-hls-uk-live.akamaized.net
+  - DOMAIN,vod-dash-uk-live.akamaized.net
+  - DOMAIN,vod-thumb-uk-live.akamaized.net
+  - DOMAIN-SUFFIX,bbc.co
+  - DOMAIN-SUFFIX,bbc.co.uk
+  - DOMAIN-SUFFIX,bbc.com
+  - DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net
+  - DOMAIN-SUFFIX,bbci.co
+  - DOMAIN-SUFFIX,bbci.co.uk
+  - DOMAIN-SUFFIX,bidi.net.uk 
