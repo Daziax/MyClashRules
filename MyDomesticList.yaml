@@ -1,4 +1,4 @@
-DOMAIN-SUFFIX,moonlight-stream.org
+DOMAIN-SUFFIX,moonlight-stream.org,no-resolve
 DOMAIN-SUFFIX,fakeopen.com  
 DOMAIN-SUFFIX,lyricsify.com 
 DOMAIN-SUFFIX,lyricsilo.com
@@ -10,7 +10,7 @@ DOMAIN-SUFFIX,dragons.nintendo.net 
  #- DOMAIN-SUFFIX,d4c.nintendo.net
  #- DOMAIN-SUFFIX,cdn.nintendo.net
 DOMAIN-SUFFIX,op2.nintendo.net
-DOMAIN-SUFFIX,thorhsu.com
+DOMAIN-SUFFIX,thorhsu.com,no-resolve
   #
 DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,bugsnag.com
