@@ -1,47 +1,58 @@
-# > OpenAI
+payload:
+# OpenAI
 # >> OpenAI Challenge & SSO
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,auth0.com
-HOST-SUFFIX,statsigapi.net
-HOST-SUFFIX,statsig.com
-HOST-SUFFIX,gravatar.com
-HOST-SUFFIX,api.revenuecat.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,auth0.com
+
+  - DOMAIN，chatgpt.livekit.cloud
+  - DOMAIN，static.cloudflareinsights.com
+  - DOMAIN-SUFFIX,algolia.net
+  - DOMAIN-SUFFIX,api.statsig.com
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com
+  - DOMAIN-SUFFIX,events.statsigapi.net
+  - DOMAIN-SUFFIX,featuregates.org
+  - DOMAIN-SUFFIX,identrust.com
+
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,observeit.net
+  - DOMAIN-KEYWORD,openai
 
 # >> OpenAI Related
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,identrust.com
-
+  - DOMAIN-SUFFIX,ai.com
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,segment.io
+  - DOMAIN-SUFFIX,identrust.com
 # >> OpenAI CDN
-DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
-DOMAIN-SUFFIX,api-site.azureedge.net
-DOMAIN-SUFFIX,cdn.auth0.com
+  - DOMAIN-SUFFIX,chat.openai.com.cdn.cloudflare.net
+  - DOMAIN-SUFFIX,api-site.azureedge.net
+  - DOMAIN-SUFFIX,cdn.auth0.com
+  - DOMAIN-SUFFIX,intercomcdn.com
+# >> OpenAI Other
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,invoice.stripe.com
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,poe.com
 
 # Claude
-DOMAIN-SUFFIX,claude.ai 
-DOMAIN-SUFFIX,anthropic.com
-
-# >> OpenAI Other
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,invoice.stripe.com
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,claude.ai 
+  - DOMAIN-SUFFIX,anthropic.com
 
 # Bing
-DOMAIN-SUFFIX,msxiaobing.com 
-DOMAIN-SUFFIX,bing.com 
-DOMAIN-SUFFIX,bing123.com
-DOMAIN-SUFFIX,bing135.com
-DOMAIN-SUFFIX,bing4.com
-DOMAIN-SUFFIX,bing.com.bo
-DOMAIN-SUFFIX,bing.com.co
-DOMAIN-SUFFIX,bing.com.cy
-DOMAIN-SUFFIX,bing.com.gt
-DOMAIN-SUFFIX,bing.jp
-DOMAIN-SUFFIX,bing.cn
-DOMAIN-SUFFIX,bing.net
-DOMAIN-SUFFIX,bingapis.com
-DOMAIN-SUFFIX,bingforbusiness.com
+  - DOMAIN-SUFFIX,msxiaobing.com 
+  - DOMAIN-SUFFIX,bing.com 
+  - DOMAIN-SUFFIX,bing123.com
+  - DOMAIN-SUFFIX,bing135.com
+  - DOMAIN-SUFFIX,bing4.com
+  - DOMAIN-SUFFIX,bing.com.bo
+  - DOMAIN-SUFFIX,bing.com.co
+  - DOMAIN-SUFFIX,bing.com.cy
+  - DOMAIN-SUFFIX,bing.com.gt
+  - DOMAIN-SUFFIX,bing.jp
+  - DOMAIN-SUFFIX,bing.cn
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,bingapis.com
+  - DOMAIN-SUFFIX,bingforbusiness.com
 
