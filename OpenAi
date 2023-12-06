@@ -37,12 +37,12 @@ payload:
   - DOMAIN-SUFFIX,poe.com
 
 # Claude
-  - DOMAIN-SUFFIX,claude.ai 
+  - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,anthropic.com
 
 # Bing
-  - DOMAIN-SUFFIX,msxiaobing.com 
-  - DOMAIN-SUFFIX,bing.com 
+  - DOMAIN-SUFFIX,msxiaobing.com
+  - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,bing123.com
   - DOMAIN-SUFFIX,bing135.com
   - DOMAIN-SUFFIX,bing4.com
