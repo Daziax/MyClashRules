@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,sharemouse.com
-DOMAIN-SUFFIX,serif.com
-DOMAIN-SUFFIX,oculuscdn.com
-DOMAIN-SUFFIX,oculus.com
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,python.org
-DOMAIN-SUFFIX,hanime1.me
+payload:
+  - DOMAIN-SUFFIX,sharemouse.com
+  - DOMAIN-SUFFIX,serif.com
+  - DOMAIN-SUFFIX,oculuscdn.com
+  - DOMAIN-SUFFIX,oculus.com
+  - DOMAIN-SUFFIX,python.org
+  - DOMAIN-SUFFIX,hanime1.me
