@@ -73,3 +73,4 @@ payload:
   - DOMAIN-SUFFIX,bat.bing.com
   - DOMAIN-SUFFIX,designerapp.officeapps.live.com
   - DOMAIN-SUFFIX,cdn.designerapp.osi.office.net
+  - DOMAIN-SUFFIX,mobile.events.data.microsoft.com
