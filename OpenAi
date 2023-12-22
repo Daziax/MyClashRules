@@ -3,7 +3,7 @@ payload:
 # >> OpenAI Challenge & SSO
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,auth0.com
-  - DOMAIN-KEYWORD,bing
+  - DOMAIN-SUFFIX,bing.com
 
   - DOMAIN，chatgpt.livekit.cloud
   - DOMAIN，static.cloudflareinsights.com
@@ -47,7 +47,7 @@ payload:
   - DOMAIN-SUFFIX,waa-pa.clients6.google.com
 
 # Bing
-  - DOMAIN-KEYWORD,bing
+  - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,msxiaobing.com
   - DOMAIN-SUFFIX,bing123.com
   - DOMAIN-SUFFIX,bing135.com
