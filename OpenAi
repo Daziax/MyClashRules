@@ -3,7 +3,6 @@ payload:
 # >> OpenAI Challenge & SSO
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,auth0.com
-  - DOMAIN-SUFFIX,bing.com
 
   - DOMAIN，chatgpt.livekit.cloud
   - DOMAIN，static.cloudflareinsights.com
@@ -60,16 +59,15 @@ payload:
   - DOMAIN-SUFFIX,bing.cn
   - DOMAIN-SUFFIX,bing.net
   - DOMAIN-SUFFIX,bingforbusiness.com
+  - DOMAIN-KEYWORD,bing
   - DOMAIN-KEYWORD,copilot
   - DOMAIN-KEYWORD,edgeassetservice
   - DOMAIN-SUFFIX,edgeservices.bing.com
   - DOMAIN-SUFFIX,sydney.bing.com
-  - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,azurewebsites.net
   - DOMAIN-SUFFIX,azureedge.net
   - DOMAIN-SUFFIX,edge.microsoft.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
-  - DOMAIN-SUFFIX,www.bing.com
   - DOMAIN-SUFFIX,nav-edge.smartscreen.microsoft.com
   - DOMAIN-SUFFIX,bat.bing.com
   - DOMAIN-SUFFIX,designerapp.officeapps.live.com
