@@ -41,6 +41,10 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,www.claude.ai
 
+#bard Google Gemini
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,waa-pa.clients6.google.com
+
 # Bing
   - DOMAIN-SUFFIX,msxiaobing.com
   - DOMAIN-SUFFIX,bing123.com
