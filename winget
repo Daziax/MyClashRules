@@ -1,0 +1,3 @@
+payload:
+  - DOMAIN-KEYWORD,winget
+  - DOMAIN-SUFFIX,cdn.winget.microsoft.com
