@@ -13,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,op2.nintendo.net
   - DOMAIN-SUFFIX,thorhsu.com,no-resolve
   - DOMAIN-SUFFIX,dyndns.com
+  - DOMAIN-SUFFIX,tinder.com
   
   #
   - DOMAIN-SUFFIX,flurry.com
