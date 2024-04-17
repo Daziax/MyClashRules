@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,thorhsu.com,no-resolve
   - DOMAIN-SUFFIX,dyndns.com
   - DOMAIN-SUFFIX,tinder.com
+  - DOMAIN-SUFFIX,gotinder.com
   
   #
   - DOMAIN-SUFFIX,flurry.com
