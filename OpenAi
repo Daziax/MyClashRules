@@ -2,6 +2,7 @@ payload:
 # OpenAI
 # >> OpenAI Challenge & SSO
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chat.openai.com
   - DOMAIN-SUFFIX,auth0.com
 
   - DOMAIN，chatgpt.livekit.cloud
