@@ -15,7 +15,9 @@ payload:
   - DOMAIN-SUFFIX,dyndns.com
   - DOMAIN-SUFFIX,tinder.com
   - DOMAIN-SUFFIX,gotinder.com
-  
+
+#tmdb.org
+  - DOMAIN-SUFFIX,api.tmdb.org
   #
   - DOMAIN-SUFFIX,flurry.com
   - DOMAIN-SUFFIX,bugsnag.com
