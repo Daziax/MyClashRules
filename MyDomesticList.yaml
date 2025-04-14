@@ -19,10 +19,10 @@ payload:
   - DOMAIN-SUFFIX,dockerpull.cn
 # syncthing
   - DOMAIN-SUFFIX,syncthing.net
-#tmdb.org
+#tmdb.org ,anisearch
   - DOMAIN-SUFFIX,api.tmdb.org
-  # anisearch
   - DOMAIN-SUFFIX,anisearch.de
+  - DOMAIN-SUFFIX,omdbapi.com
   #
   - DOMAIN-SUFFIX,flurry.com
   - DOMAIN-SUFFIX,bugsnag.com
