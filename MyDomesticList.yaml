@@ -16,11 +16,13 @@ payload:
   - DOMAIN-SUFFIX,tinder.com
   - DOMAIN-SUFFIX,gotinder.com
 #dockerpull
-- DOMAIN-SUFFIX,dockerpull.cn
+  - DOMAIN-SUFFIX,dockerpull.cn
 # syncthing
-- DOMAIN-SUFFIX,syncthing.net
+  - DOMAIN-SUFFIX,syncthing.net
 #tmdb.org
   - DOMAIN-SUFFIX,api.tmdb.org
+  # anisearch
+  - DOMAIN-SUFFIX,anisearch.de
   #
   - DOMAIN-SUFFIX,flurry.com
   - DOMAIN-SUFFIX,bugsnag.com
