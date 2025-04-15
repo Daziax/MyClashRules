@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,hub.docker.com
   - DOMAIN-SUFFIX,dockerstatic.com
   - DOMAIN-SUFFIX,nodeseek.com
+  - DOMAIN-SUFFIX,onedrive.live.com
