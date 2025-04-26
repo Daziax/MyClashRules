@@ -13,6 +13,7 @@ IP-CIDR,52.184.66.0/24,no-resolve
 IP-CIDR,85.236.97.66,no-resolve
 IP-CIDR,85.236.100.0/24,no-resolve
 IP-CIDR,85.236.0.0/16,no-resolve
+IP-CIDR,130.33.72.0/24,no-resolve
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,battleye.com
 DOMAIN-SUFFIX,modulate.ai
