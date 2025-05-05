@@ -1,7 +1,7 @@
 # 育碧 彩六
 IP-CIDR,4.194.0.0/16,no-resolve
 IP-CIDR,20.2.0.0/16,no-resolve
-IP-CIDR,20.255.154.0/24,no-resolve
+IP-CIDR,20.255.0.0/16,no-resolve
 IP-CIDR,23.102.234.0/24,no-resolve
 IP-CIDR,48.210.80.0/24,no-resolve
 IP-CIDR,48.210.32.0/24,no-resolve
