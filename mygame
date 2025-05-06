@@ -5,12 +5,12 @@ IP-CIDR,20.255.0.0/16,no-resolve
 IP-CIDR,23.102.234.0/24,no-resolve
 IP-CIDR,48.210.80.0/24,no-resolve
 IP-CIDR,48.210.32.0/24,no-resolve
-IP-CIDR,52.229.206.0/24,no-resolve
+IP-CIDR,52.229.0.0/16,no-resolve
 IP-CIDR,52.184.0.0/16,no-resolve
 IP-CIDR,52.175.0.0/16,no-resolve
-IP-CIDR,52.187.126.0/24,no-resolve
-IP-CIDR,52.184.66.0/24,no-resolve
-IP-CIDR,52.0.0.0/8,no-resolve
+IP-CIDR,52.187.0.0/16,no-resolve
+IP-CIDR,52.184.0.0/16,no-resolve
+#IP-CIDR,52.0.0.0/8,no-resolve
 IP-CIDR,85.236.97.0/24,no-resolve
 IP-CIDR,85.236.100.0/24,no-resolve
 IP-CIDR,85.236.0.0/16,no-resolve
