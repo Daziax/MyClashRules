@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,gotinder.com
 #dockerpull
   - DOMAIN-SUFFIX,dockerpull.cn
+  - DOMAIN-SUFFIX,dockerpull.pw
 # syncthing
   - DOMAIN-SUFFIX,syncthing.net
 #tmdb.org ,anisearch
