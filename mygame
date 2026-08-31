@@ -21,3 +21,4 @@ DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,battleye.com
 DOMAIN-SUFFIX,modulate.ai
 DOMAIN-SUFFIX,s3.amazonaws.com
+DOMAIN-SUFFIX,gamelift-ping.ap-east-1.api.aws
