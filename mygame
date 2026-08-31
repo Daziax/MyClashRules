@@ -22,3 +22,6 @@ DOMAIN-SUFFIX,battleye.com
 DOMAIN-SUFFIX,modulate.ai
 DOMAIN-SUFFIX,s3.amazonaws.com
 DOMAIN-SUFFIX,gamelift-ping.ap-east-1.api.aws
+DOMAIN-SUFFIX,gamelift-ping.ap-northeast-1.api.aws
+DOMAIN-SUFFIX,gamelift-ping.eu-central-1.api.aws
+DOMAIN-SUFFIX,gamelift-ping.af-south-1.api.aws
